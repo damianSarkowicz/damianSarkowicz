@@ -1,6 +1,6 @@
 ## Hi, I'm Damian👋
 
-`Computer Engineering` | `Cybersecurity Basics`
+`Computer Engineering` | `Cybersecurity Basics` | `Kraków, Poland`
 
 ### O mnie
 
