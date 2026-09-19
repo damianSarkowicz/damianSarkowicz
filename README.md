@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Damian👋
 
-<!--
-**damianSarkowicz/damianSarkowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Computer Engineering` | `Cybersecurity Basics`
 
-Here are some ideas to get you started:
+### O mnie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jestem absolwentem Informatyki Technicznej (Computer Engineering) na Politechnice Wrocławskiej. Buduje swoje fundamenty w obszarze cyberbezpieczeństwa.
+
+* **Wykształcenie:** Inżynier - Informatyka Techniczna (PWr)
+* **Lokalizacja:** Kraków
+
+ ---
+
+ ### Aktualny plan i nauka
+
+ Rozwijam wiedzę praktyczną i teoretyczną w ramach konkretnych ścieżek:
+
+ * **TryHackMe:** Scieżka Cyber Security Analyst
+ * **Szkolenia i kursy:** Przygotowanie do Google Cybersecurity oraz CompTIA Security+
+   
