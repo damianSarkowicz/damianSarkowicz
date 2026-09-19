@@ -4,7 +4,7 @@
 
 ### O mnie
 
-Jestem absolwentem Informatyki Technicznej (Computer Engineering) na Politechnice Wrocławskiej. Buduje swoje fundamenty w obszarze cyberbezpieczeństwa.
+Jestem absolwentem Informatyki Technicznej (Computer Engineering) na Politechnice Wrocławskiej. Buduję swoje fundamenty w obszarze cyberbezpieczeństwa.
 
 * **Wykształcenie:** Inżynier - Informatyka Techniczna (PWr)
 * **Lokalizacja:** Kraków
@@ -15,6 +15,6 @@ Jestem absolwentem Informatyki Technicznej (Computer Engineering) na Politechnic
 
  Rozwijam wiedzę praktyczną i teoretyczną w ramach konkretnych ścieżek:
 
- * **TryHackMe:** Scieżka Cyber Security Analyst
+ * **TryHackMe:** Ścieżka Cyber Security Analyst
  * **Szkolenia i kursy:** Przygotowanie do Google Cybersecurity oraz CompTIA Security+
    
