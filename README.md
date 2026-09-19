@@ -1,20 +1,20 @@
 ## Hi, I'm Damian👋
 
-`Computer Engineering` | `Cybersecurity Basics` | `Kraków, Poland`
+`Computer Engineering` | `Cybersecurity` | `Kraków, Poland`
 
 ### O mnie
 
-Jestem absolwentem Informatyki Technicznej (Computer Engineering) na Politechnice Wrocławskiej. Buduję swoje fundamenty w obszarze cyberbezpieczeństwa.
+Absolwent Informatyki Technicznej ze specjalizacją w Inżynierii Systemów Informatycznych na Politechnice Wrocławskiej. Łączę wiedzę z zakresu systemów i sieci z praktyczną nauką analizy SOC, dążąc do rozwoju w obszarze ochrony i monitorowania zagrożeń.
 
-* **Wykształcenie:** Inżynier - Informatyka Techniczna (PWr)
+* **Wykształcenie:** Inżynier - Informatyka Techniczna, specjalizacja: Inżynieria Systemów Informatycznych (PWr)
 * **Lokalizacja:** Kraków
 
  ---
 
  ### Aktualny plan i nauka
 
- Rozwijam wiedzę praktyczną i teoretyczną w ramach konkretnych ścieżek:
+ Rozwijam wiedzę praktyczną i teoretyczną poprzez:
 
- * **TryHackMe:** Ścieżka Cyber Security Analyst
- * **Szkolenia i kursy:** Przygotowanie do Google Cybersecurity oraz CompTIA Security+
-   
+ * **TryHackMe:** Praktyczne ścieżki i laboratoria z zakresu cyberbezpieczeństwa
+ * **Szkolenia i certyfikaty:** Przygotowanie do Google Cybersecurity oraz CompTIA Security+
+ * **Obszar rozwoju:** Cyberbezpieczeństwo, bezpieczeństwo sieci i systemów, analiza zagrożeń
