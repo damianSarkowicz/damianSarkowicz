@@ -1,20 +1,24 @@
 ## Hi, I'm Damian👋
 
-`Computer Engineering` | `Cybersecurity` | `Kraków, Poland`
+`Cybersecurity` | `Networking` | `Kraków`
 
-### O mnie
+### 👨‍💻 O mnie
 
-Absolwent Informatyki Technicznej ze specjalizacją w Inżynierii Systemów Informatycznych na Politechnice Wrocławskiej. Łączę wiedzę z zakresu systemów i sieci z praktyczną nauką analizy SOC, dążąc do rozwoju w obszarze ochrony i monitorowania zagrożeń.
+Jestem absolwentem Informatyki Technicznej na Politechnice Wrocławskiej. Mam solidne podstawy inżynierskie, a obecnie rozwijam wiedzę z zakresu sieci komputerowych oraz cyberbezpieczeństwa.
 
-* **Wykształcenie:** Inżynier - Informatyka Techniczna, specjalizacja: Inżynieria Systemów Informatycznych (PWr)
+Dokumentuję tutaj swoją naukę, notatki, materiały oraz przygotowania do certyfikacji.
+
+* **Wykształcenie:** Inżynier - Informatyka Techniczna (Computer Engineering), spec. Inżynieria Systemów Informatycznych (PWr)
 * **Lokalizacja:** Kraków
 
- ---
+---
 
- ### Aktualny plan i nauka
+### 🛠️ Aktualna ścieżka i nauka
 
- Rozwijam wiedzę praktyczną i teoretyczną poprzez:
+Rozwijam wiedzę teoretyczną i praktyczną poprzez:
 
- * **TryHackMe:** Praktyczne ścieżki i laboratoria z zakresu cyberbezpieczeństwa
- * **Szkolenia i certyfikaty:** Przygotowanie do Google Cybersecurity oraz CompTIA Security+
- * **Obszar rozwoju:** Cyberbezpieczeństwo, bezpieczeństwo sieci i systemów, analiza zagrożeń
+1. 🟩 **TryHackMe:** `Pre-Security` & `Cyber Security 101` *(obecnie)*
+2. 🔵 **Cisco CCNA (200-301):** fundamenty sieci komputerowych
+3. 🟩 **TryHackMe:** `SOC Level 1` *(podstawy pracy w SOC, analiza logów, ruchu sieciowego i narzędzi bezpieczeństwa)*
+4. 🟡 **Google Cybersecurity Certificate**
+5. 🔴 **CompTIA Security+**
