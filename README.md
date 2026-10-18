@@ -6,8 +6,6 @@
 
 Jestem absolwentem Informatyki Technicznej na Politechnice Wrocławskiej. Mam solidne podstawy inżynierskie, a obecnie rozwijam wiedzę z zakresu sieci komputerowych oraz cyberbezpieczeństwa.
 
-Dokumentuję tutaj swoją naukę, notatki, materiały oraz przygotowania do certyfikacji.
-
 * **Wykształcenie:** Inżynier - Informatyka Techniczna (Computer Engineering), spec. Inżynieria Systemów Informatycznych (PWr)
 * **Lokalizacja:** Kraków
 
